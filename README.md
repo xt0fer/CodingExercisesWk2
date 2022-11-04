@@ -6,7 +6,7 @@ Do this in either Java or Python. Your choice.
 #### Code Exercises
 
 - For loop from 100 to 5 by 5. print index var for each step.
-- For loop from 100 to 5 by 5. do nothing inside the loop.
+- For loop from 5 to 75 by 10. print index variable on each value.
 - Sum Integers from 9 to 17, print sum
 - Find and print the smallest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
 - Find largest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
