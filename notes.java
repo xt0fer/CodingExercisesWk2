@@ -16,8 +16,8 @@ Using this array a = [9, 5, 6, 3, 8, 2, 4];
 
 
 // 1
-for (int i = 100; i<=5; i=i-5) {
-  System.out.println(i);)
+for (int i = 100; i >= 5; i = i-5) {
+  System.out.println(i);
 }
 
 // 2
