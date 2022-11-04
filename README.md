@@ -23,7 +23,7 @@ Do this in either Java or Python. Your choice.
 - There is an object x which has a method (double)Balance(). Build an IF statement that prints "Paid Off" if the result of the balance call is less than of equal to 1.0, else it prints the balance as a Dollar figure (2 decimal places) 
 - Build a WHILE loop that turns on the heat if the thermo.getTemp() is less than 72.0 else it turns on the A/C if thermo.getTemp() is greater that 76.0.
 - Find a number greater than Pi in a double array, print number and its index.
-- Given an array of objects (of class Xaction) w/nulls, sum all the values of the objects in the array, using Xaction::getValue(). Print the sum.
+- Given an array of objects (of class Xaction) w/nulls, sum all the values of the objects in the array, using Xaction::getValue() to get the object's value. Print the sum after the loop.
 - reverse an array of objects of type Xaction
 - Print a 5's times table
 - detemine the hypotenuse of a 9 by 7 right triangle, assign it to a double
