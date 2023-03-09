@@ -11,7 +11,7 @@ Ground Rules
 
 #### Code Exercises
 
-- For loop from 100 to 5 by 5. Print index var for each step.
+1 For loop from 100 to 5 by 5. Print index var for each step.
 - For loop from 5 to 75 by 10. Print index variable on each value.
 - Sum Integers from 9 to 17, print sum of integers
 - Find and print the smallest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
