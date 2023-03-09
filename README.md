@@ -11,9 +11,9 @@ Ground Rules
 
 #### Code Exercises
 
-1. For loop from 100 to 5 by 5. Print index var for each step.
-2. For loop from 5 to 75 by 10. Print index variable on each value.
-3. Sum Integers from 9 to 17, print sum of integers
+#1. For loop from 100 to 5 by 5. Print index var for each step.
+#2. For loop from 5 to 75 by 10. Print index variable on each value.
+#3. Sum Integers from 9 to 17, print sum of integers
 4. Find and print the smallest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
 5. Find largest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
 6. Find and print index of first true element in an array of booleans a = [false, false, false, true, false];
