@@ -22,7 +22,7 @@ Ground Rules
 - 9. divide each element of an array by 1.3; a = [0.5, 1.4, 6.7, 123.4 -34.6]
 - 10. raise each element of a double array to it's 3rd power and subtract the original element's value by the value divided by 3.0 a = [1.3, 5.4, 6.1, 1.0, 9.2];
 11. zero out a 4 by 6 integer array12. multiply each element of a 5 by 5 array of integers by 7
-12. create a method that takes a 5 by 5 array and produces a 5 by 5 array of booleans. each element in the result should be true if the value in the argument array is even, else it's false.
+12. create a method `evenFalse` that takes a 5 by 5 array and produces a 5 by 5 array of booleans. each element in the result should be true if the value in the argument array is even, else it's false.
 13. create a method that takes two doubles and returns the first parameter raised to the second parameter's value
 14. create a method that returns a boolean if the Object passed to it is a Fish or not
 15. There is an object x which has a method (double)Balance(). Build an IF statement that prints "Paid Off" if the result of the balance call is less than of equal to 1.0, else it prints the balance as a Dollar figure (2 decimal places) 
