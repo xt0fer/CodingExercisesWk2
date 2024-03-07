@@ -11,16 +11,16 @@ Ground Rules
 
 #### Code Exercises
 
-- 1. For loop from 100 to 5 by 5. Print index var for each step.
-- 2. For loop from 5 to 75 by 10. Print index variable on each value.
-- 3. Sum Integers from 9 to 17, print sum of integers
-- 4. Find and print the smallest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
-- 5. Find largest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
-- 6. Find and print index of first true element in an array of booleans a = [false, false, false, true, false];
-- 7. Find and print index of first true element in an array of booleans (must use a while loop) a = [false, false, false, true, false];
-- 8. add 5 to every element of an array of integers a = [9, 5, 6, 3, 8, 2, 4]
-- 9. divide each element of an array by 1.3; a = [0.5, 1.4, 6.7, 123.4 -34.6]
-- 10. raise each element of a double array to it's 3rd power and subtract the original element's value by the value divided by 3.0 a = [1.3, 5.4, 6.1, 1.0, 9.2];
+1. For loop from 100 to 5 by 5. Print index var for each step.
+2. For loop from 5 to 75 by 10. Print index variable on each value.
+3. Sum Integers from 9 to 17, print sum of integers
+4. Find and print the smallest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
+5. Find largest integer in an array a = [9, 5, 6, 3, 8, 2, 4]; and print it.
+6. Find and print index of first true element in an array of booleans a = [false, false, false, true, false];
+7. Find and print index of first true element in an array of booleans (must use a while loop) a = [false, false, false, true, false];
+8. add 5 to every element of an array of integers a = [9, 5, 6, 3, 8, 2, 4]
+9. divide each element of an array by 1.3; a = [0.5, 1.4, 6.7, 123.4 -34.6]
+10. raise each element of a double array to it's 3rd power and subtract the original element's value by the value divided by 3.0 a = [1.3, 5.4, 6.1, 1.0, 9.2];
 11. zero out a 4 by 6 integer array12. multiply each element of a 5 by 5 array of integers by 7
 12. create a method `evenFalse` that takes a 5 by 5 array and produces a 5 by 5 array of booleans. each element in the result should be true if the value in the argument array is even, else it's false.
 13. create a method that takes two doubles and returns the first parameter raised to the second parameter's value
